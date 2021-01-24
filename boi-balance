@@ -4,7 +4,7 @@ from requests_html import HTMLSession
 import sys
 
 
-URL = "https://www.365online.com/online365/spring/authentication"
+URL = "https://original.365online.com/online365/spring/authentication"
 SESSION = HTMLSession()
 
 
